@@ -1,0 +1,4 @@
+Hello students!
+Welcome to Python file handling,
+Let's learn together.
+This lines is added later.
