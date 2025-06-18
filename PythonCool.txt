@@ -1,8 +1,0 @@
-Python is a really strong, crisp, precise and easy-to understand language.
-File handling is real easy with Python.
-I really enjoy coding with Python.
-I have learnt about json files, binary files and txt files
-I look forward to learn more and more in Python.
-Python is really helpful in Data Science and Machine Learning.
-The 4 library files Pandas, Numpy, Matplotlib, scikit-learn are helpful to learn Machine Learning.
-I look forward to learn them as soon as possible.
